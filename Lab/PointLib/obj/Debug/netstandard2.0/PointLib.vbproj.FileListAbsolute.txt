@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Lab\PointLib\bin\Debug\netstandard2.0\PointLib.deps.json
+C:\Users\User\source\repos\Lab\PointLib\bin\Debug\netstandard2.0\PointLib.dll
+C:\Users\User\source\repos\Lab\PointLib\bin\Debug\netstandard2.0\PointLib.pdb
+C:\Users\User\source\repos\Lab\PointLib\obj\Debug\netstandard2.0\PointLib.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab\PointLib\obj\Debug\netstandard2.0\PointLib.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab\PointLib\obj\Debug\netstandard2.0\PointLib.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab\PointLib\obj\Debug\netstandard2.0\PointLib.AssemblyInfo.vb
+C:\Users\User\source\repos\Lab\PointLib\obj\Debug\netstandard2.0\PointLib.dll
+C:\Users\User\source\repos\Lab\PointLib\obj\Debug\netstandard2.0\PointLib.pdb
